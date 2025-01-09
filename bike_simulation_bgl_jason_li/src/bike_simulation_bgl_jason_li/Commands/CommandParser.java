@@ -1,6 +1,6 @@
 package bike_simulation_bgl_jason_li.Commands;
 
-import bike_simulation_bgl_jason_li.model.Direction;
+import bike_simulation_bgl_jason_li.Model.Direction;
 
 public class CommandParser {
 	public static Command parseCommand(String input) {

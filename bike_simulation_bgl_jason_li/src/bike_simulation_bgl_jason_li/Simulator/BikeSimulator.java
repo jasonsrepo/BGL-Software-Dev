@@ -3,10 +3,10 @@ package bike_simulation_bgl_jason_li.Simulator;
 import bike_simulation_bgl_jason_li.Commands.Command;
 import bike_simulation_bgl_jason_li.Commands.CommandParser;
 import bike_simulation_bgl_jason_li.Commands.PlaceCommand;
-import bike_simulation_bgl_jason_li.model.Bike;
-import bike_simulation_bgl_jason_li.model.Direction;
-import bike_simulation_bgl_jason_li.model.Grid;
-import bike_simulation_bgl_jason_li.model.Position;
+import bike_simulation_bgl_jason_li.Model.Bike;
+import bike_simulation_bgl_jason_li.Model.Direction;
+import bike_simulation_bgl_jason_li.Model.Grid;
+import bike_simulation_bgl_jason_li.Model.Position;
 
 public class BikeSimulator {
 	private final Grid grid;
