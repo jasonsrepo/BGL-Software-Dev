@@ -1,4 +1,4 @@
-package bike_simulation_bgl_jason_li;
+package bike_simulation_bgl_jason_li.model;
 
 public enum Direction {
 	NORTH(0, 1),

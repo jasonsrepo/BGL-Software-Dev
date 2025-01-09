@@ -2,6 +2,8 @@ package bike_simulation_bgl_jason_li;
 
 import java.util.Scanner;
 
+import bike_simulation_bgl_jason_li.Simulator.BikeSimulator;
+
 public class Main {
 
 	public static void main(String[] args) {

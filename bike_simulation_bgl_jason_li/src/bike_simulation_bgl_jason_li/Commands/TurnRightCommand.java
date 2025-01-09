@@ -1,6 +1,6 @@
-package Commands;
+package bike_simulation_bgl_jason_li.Commands;
 
-import bike_simulation_bgl_jason_li.BikeSimulator;
+import bike_simulation_bgl_jason_li.Simulator.BikeSimulator;
 
 public class TurnRightCommand implements Command {
 

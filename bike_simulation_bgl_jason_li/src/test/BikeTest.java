@@ -2,7 +2,7 @@ package test;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-import bike_simulation_bgl_jason_li.BikeSimulator;
+import bike_simulation_bgl_jason_li.Simulator.BikeSimulator;
 
 public class BikeTest {
     private BikeSimulator simulator;

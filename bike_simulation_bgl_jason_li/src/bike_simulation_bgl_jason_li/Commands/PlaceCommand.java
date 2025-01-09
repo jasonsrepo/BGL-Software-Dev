@@ -1,8 +1,8 @@
-package Commands;
+package bike_simulation_bgl_jason_li.Commands;
 
-import bike_simulation_bgl_jason_li.BikeSimulator;
-import bike_simulation_bgl_jason_li.Direction;
-import bike_simulation_bgl_jason_li.Position;
+import bike_simulation_bgl_jason_li.Simulator.BikeSimulator;
+import bike_simulation_bgl_jason_li.model.Direction;
+import bike_simulation_bgl_jason_li.model.Position;
 
 public class PlaceCommand implements Command {
 	
