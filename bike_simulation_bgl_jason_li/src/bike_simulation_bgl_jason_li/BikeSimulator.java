@@ -76,7 +76,7 @@ public class BikeSimulator {
     		if (bike.isPlaced() || command instanceof PlaceCommand) {
     			command.execute(this);
     		} else {
-        		System.out.println("Invalid command, not executed!");
+        		System.out.println("Bike not placed yet!");
     		}
     	}
     	else {
